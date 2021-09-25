@@ -1,0 +1,140 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+/*font-family: 'Montserrat', sans-serif;*/
+
+/* privilege card banner section css code*/
+
+#privilege-banner{
+	width: 100%;
+	padding: 80px 0px;
+}
+.pc-banner-content{
+	padding: 40px 0px;
+}
+.pc-banner-content h1{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 48px;
+	text-align: left;
+	line-height: 56px;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: normal;
+	color: #4e4e4e;
+	margin-bottom: 20px;
+}
+.pc-banner-content p{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.8;
+	letter-spacing: normal;
+	text-align: left;
+	color: #4e4e4e;
+	margin-right: 60px;
+	margin-bottom: 40px;
+}
+.pc-btn{
+	color: #fff;
+	padding: 14px 42px 14px 42px;
+  	border-radius: 5px;
+  	background-color: #1e276d;
+  	border: none;
+}
+
+/* privilege card partners section css */
+#our-partners{
+	width: 100%;
+	padding-bottom: 60px;
+}
+.pc-title h2{
+  	font-family: Montserrat;
+  	font-size: 40px;
+  	font-weight: bold;
+  	font-stretch: normal;
+  	font-style: normal;
+  	line-height: 1.23;
+  	letter-spacing: normal;
+  	text-align: center;
+  	color: #4e4e4e;
+  	margin-bottom: 24px;
+}
+.pc-title p{
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: normal;
+	text-align: center;
+	color: #4e4e4e;
+}
+.pc-parters-filter{
+	margin-top: 20px;
+}
+
+.pc-parters-filter ul.filters{
+    display: block;
+    width: 100%;
+    margin: 0;
+    padding: 30px 0;
+}
+
+.pc-parters-filter ul.filters > li{
+    list-style: none;
+    display: inline-block;
+    border: 1px solid #1e276d;
+    border-radius: 4px;
+}
+
+.pc-parters-filter ul.filters > li > a{
+    display: block;
+    color: #434e5e;
+    text-decoration: none;
+    padding: 5px 20px;
+}
+
+.pc-parters-filter ul.filters > li > a:hover{
+    background-color: #1e276d;
+    color: white;
+}
+
+.pc-parters-filter ul.filters > li.active > a{
+    color: #fff;
+    background-color: #1e276d;
+    border: 1px solid #1e276d;
+}
+
+.item{
+	text-align: center;
+	margin-bottom: 32px;
+}
+.projects{
+	margin-top: 32px;
+}
+.pc-card h4{
+	font-family: Montserrat;
+  	font-size: 18px;
+  	font-weight: 600;
+  	font-stretch: normal;
+  	font-style: normal;
+  	letter-spacing: normal;
+  	text-align: center;
+  	color: #4e4e4e;
+  	margin: 16px 0px;
+}
+.pc-card p{
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: normal;
+	text-align: center;
+	color: #4e4e4e;
+}
